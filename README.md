@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachana-kirange&label=Profile%20views&color=0e75b6&style=flat" alt="rachana-kirange" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachana-kirange" alt="rachana-kirange" /></a> </p>
-- 👨‍💻 All of my info are available at [https://rachanakirange.netlify.app/](https://rachanakirange.netlify.app/)
+- 👨‍💻 All of my info are available at (https://rachanakirange.netlify.app/)
 
 - 💬 Ask me about **MCA Candidate | Python Developer | Java | Django REST API | Passionate About AI, ML & Software Development**
 
