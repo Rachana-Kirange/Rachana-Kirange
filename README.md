@@ -8,7 +8,7 @@
 - 💬 Ask me about **MCA Candidate | Python Developer | Java | Django REST API | Passionate About AI, ML & Software Development**
 - 👨‍💻 All of my info are available at https://rachanakirange.netlify.app/
 
-- 📫 How to reach me **rachanakirange2907@gmail.com**
+- 📫 How to reach me **rachanakirange297@gmail.com**
 
 - 📄 Know about my experiences [Click to show resume](https://drive.google.com/file/d/1su4pGGZHO8zN40QMe6rRVVHo8VvIiaCg/view?usp=drivesdk)
 
