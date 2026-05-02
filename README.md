@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rachanakirange2907@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yxj9yLZ8ejXxtldRu3T8CnqH0Np6H0k_/view](https://drive.google.com/file/d/1yxj9yLZ8ejXxtldRu3T8CnqH0Np6H0k_/view)
+- 📄 Know about my experiences [Click to show resume](https://drive.google.com/file/d/1su4pGGZHO8zN40QMe6rRVVHo8VvIiaCg/view?usp=drivesdk)
 
 - ⚡ Fun fact **Fun fact I am Sincere Girl**
 
